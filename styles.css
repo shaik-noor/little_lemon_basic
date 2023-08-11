@@ -54,7 +54,7 @@ section{
 }
 
 .banner{
-    background-image:url('./assets/pasta.jpg');
+    background-image:url('https://raw.githubusercontent.com/shaik-noor/little_lemon_basic/main/assets/pasta.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: none;
